@@ -408,8 +408,11 @@ GameObject:
   - component: {fileID: 1178529853}
   - component: {fileID: 1178529852}
   - component: {fileID: 1178529856}
+<<<<<<< HEAD
   - component: {fileID: 1178529857}
   - component: {fileID: 1178529858}
+=======
+>>>>>>> parent of 38a9bb5 (Add a Player Input component)
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -509,6 +512,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+<<<<<<< HEAD
 --- !u!114 &1178529857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -551,3 +555,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40f83e0be19fc004a89ee0dcb8b9bff0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> parent of 38a9bb5 (Add a Player Input component)
